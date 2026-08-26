@@ -1,7 +1,7 @@
 <div align="center">
 	<p>
 		<h1>IT DEV FASILKOM 2026</h1>
-		<a href="https://www.ui.ac.id/"><img width="553" height="555" alt="logo" src="https://github.com/user-attachments/assets/a1b1776a-3724-49c7-96cf-ca7af8a9ef9d" /></a>
+		<a href="https://www.ui.ac.id/"><img height="250" alt="Screenshot_20260826_133657" src="https://github.com/user-attachments/assets/7003e69e-a342-47ec-8c6a-fe9b1270ea8c" /></a>
 	</p>
 	<p>
 		<a href="https://cs.ui.ac.id/">Fasilkom 2026</a>
