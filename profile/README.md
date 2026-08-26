@@ -10,4 +10,5 @@
 	</p>
 </div>
 
-## About Us
+## About
+The digital workspace for Fasilkom CSUI 2026's open-source projects.
